@@ -2,12 +2,11 @@
 ## Hi there, welcome to my GitHub! 💕 
 
 <div align="center" style="margin: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=27&center=false&vCenter=false&lines=My+name+is+Micaela...;Born+in+1995...;Data+Analytics...;Future+systems+analyst&duration=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=27&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Micaela...;Born+in+1995...;Data+Analytics...;Future+systems+analyst&duration=1500" alt="Typing SVG" />
 </div>
 
-## About Me
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 20px;" />
+## About Me
 
 Hi! I'm **Micaela**, a passionate learner currently studying **Systems** at the National University of Tierra del Fuego. 
 
@@ -17,6 +16,8 @@ Hi! I'm **Micaela**, a passionate learner currently studying **Systems** at the 
 - 🎯 **Career Goals**: I aim to work in a dynamic and challenging environment where I can both share my knowledge and continuously grow by learning new things.
 
 ### 🛠️ Skills
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 30px;" />
 
 #### Programming Languages:
 - JavaScript
