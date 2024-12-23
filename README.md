@@ -20,20 +20,23 @@ Hi! I'm **Micaela**, a passionate learner currently studying **Systems** at the 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 30px;" />
 
 #### Programming Languages:
-- JavaScript
-- Python
-- Pascal
-- HTML
-- Java
-- SQL
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/programming.png" alt="Pascal" title="Pascal" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/database.png" alt="SQL" title="SQL" />
+</div>
 
 #### Tools and Technologies:
-- Microsoft Office Suite
-- Tableau
-- Power BI
-- pgAdmin
-- MySQL
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" title="Microsoft Office Suite" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="pgAdmin" title="pgAdmin" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
+</div>
 
 
 <div align="center">
