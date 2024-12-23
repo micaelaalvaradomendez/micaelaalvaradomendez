@@ -1,8 +1,10 @@
 ## Hi there, welcome to my Github 💕 
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=27&center=false&vCenter=false&lines=My+name+is+Micaela...;Born+in+1995...;Data+Analytics...;Future+systems+analyst&duration=1500" />
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" />
+
+##
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 10px;" />
  <p> <i> I am currently studying Systems at the National University of Tierra del Fuego.</i></p>
 <p> <i>I am interested in the areas of data analysis and programming.</i></p>
 <p> <i>I enjoy learning new skills and I like challenges, so I am interested in finding a job that is challenging and dynamic, so I can share my knowledge and at the same time learn and develop new skills.
