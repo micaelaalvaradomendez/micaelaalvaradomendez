@@ -1,13 +1,13 @@
 
 ## Hi there, welcome to my GitHub! 💕 
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=27&center=false&vCenter=false&lines=My+name+is+Micaela...;Born+in+1995...;Data+Analytics...;Future+systems+analyst&duration=1500" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 15px;" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="25%" align="right" style="margin: 20px;" />
 
 Hi! I'm **Micaela**, a passionate learner currently studying **Systems** at the National University of Tierra del Fuego. 
 
