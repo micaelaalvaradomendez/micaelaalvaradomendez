@@ -11,7 +11,7 @@
 
 Hi! I'm **Micaela**, a passionate learner currently studying **Systems** at the National University of Tierra del Fuego. 
 
-- 🎨 **Interests**: I love **UI/UX design**, backend development, and creating intuitive and functional user interfaces.
+- 🎨 **Interests**: I love UI/UX design, backend development, and creating intuitive and functional user interfaces.
 - 🌟 **Focus Areas**: I am deeply interested in **data analytics** and **programming**
 - 🌱 **Learning Journey**: I love acquiring new skills and taking on challenges.
 - 🎯 **Career Goals**: I aim to work in a dynamic and challenging environment where I can both share my knowledge and continuously grow by learning new things.
